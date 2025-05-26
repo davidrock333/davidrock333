@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="https://github.com/davidrock333/davidrock333/blob/main/Banner%20Profile.png" width="1400" height="350">
+	<img src="https://github.com/davidrock333/davidrock333/blob/main/Banner%20Profile.png" width="1400" height="280">
 	<br>
 </div>
 <br>
