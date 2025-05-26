@@ -21,7 +21,7 @@ class Bio {
 		}
 						
 		class AboutMe {
-		    focus_on_back_end = 'Enfocado en crear APIs de alto rendimiento';
+		    focus_on_back_end = 'Focused on creating high-performance code';
 		    always_learning  = 'Data analist and backend procedures to continue development';
 		    quality_code     = 'Committed to code quality and good practices';
 		}
@@ -33,12 +33,12 @@ class Bio {
 ### <div align="center"> - - - - - - - - - - - - - - - - - - - -/ 💻 Coding Languages /- - - - - - - - - - - - - - - - - - - - </div>
 
 <div align="center">
-  <img alt="Python" width="60px" src="https://www.todosoluciones.es/wp-content/uploads/2024/11/Python-Logo-600x445.png.webp" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,java,js" />
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="SQL" width="60px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Java" width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png" />
-  
+
 </div>
 <br />
 
@@ -46,19 +46,18 @@ class Bio {
 ### <div align="center"> - - - - - - - - - - - - - - - - - - - -/ ⚙️ Frameworks /- - - - - - - - - - - - - - - - - - - -</div>
 
 <div align="center">
-  <img alt="SprintBoot" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/768px-Spring_Boot.svg.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Angular" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png" />
-</div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,eclipse,anaconda,angular" />
+</a>
 <br />
 
 -----
 ### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 🗄️ Databases /- - - - - - - - - - - - - - - - - - - -</div>
 
 <div align="center">
-  <img alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Oracle" width="90px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-1024.png" />
 </div>
@@ -68,9 +67,11 @@ class Bio {
 ### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 📦 Control Version /- - - - - - - - - - - - - - - - - - - -</div>
 
 <div align="center">
-  <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GitHub" width="60px" src="https://img.icons8.com/ios11/512/FFFFFF/github.png" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,github" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Jira" width="120px" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 <br />
 
@@ -78,15 +79,18 @@ class Bio {
 ### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 🛠️ Tools /- - - - - - - - - - - - - - - - - - - -</div>
 
 <div align="center">
-  <img alt="Postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Visual Studio Code" width="40px" src="https://code.visualstudio.com/assets/favicon.ico" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Google Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
-</div>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman" />
+</a>
 <br />
 
------
+### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 🌍 Others /- - - - - - - - - - - - - - - - - - - -</div>
+<div align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
+</a>
+<br />
+	
 ### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 🌍 Speaking Languages /- - - - - - - - - - - - - - - - - - - -</div>
 
 <div align="center">
